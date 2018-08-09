@@ -1,1 +1,1 @@
-# signup-confirmation-email
+# signup/confirmation/email  
